@@ -1,0 +1,34 @@
+
+Related Tools
+Css Minify
+Html Beautify
+Javascript Beautify
+CSS Formatter
+Beautify your CSS code:
+
+Enter your messy, minified, or obfuscated CSS Style Sheets into the field above to have it cleaned up and made pretty. The editor above also contains helpful line numbers and syntax highlighting. There are many option to tailor the beautifier to your personal formatting tastes.
+When do you use
+
+Often when writing CSS Style Sheets your indentation, spacing, and other formatting can become a bit disorganized. It is also common for multiple developers to work on a single project who have different formatting techniques. This tool is helpful for making the formatting of a file consistent. It is also common for CSS Style Sheets to be minified or obfuscated. You can use this tool to make that code look pretty and readable so it is easier to edit.
+Examples
+
+The minified CSS Style Sheets below:
+
+body{font-family:Georgia, Times, serif;color:purple;background-color:#d8da3d}h1{font-family:Helvetica, Arial}
+
+Becomes this beautified:
+
+body {
+    font-family: Georgia, Times, serif;
+    color: purple;
+    background-color: #d8da3d
+}
+h1 {
+    font-family: Helvetica, Arial
+}
+
+DansTools.com
+Contact
+About
+© 2014 - 2023 Dan's Tools
+Contact Us Privacy Policy
